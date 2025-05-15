@@ -1,0 +1,17 @@
+.env
+academic/
+venv/
+__pycache__/
+llm_rag_test/
+uploads/
+z_faiss_index/
+output_txt_sys/
+OUT_MD_ALSDD/
+dd/
+asyconre_project_ve/
+academic_faiss_index/ 
+.python-version
+req.txt
+llm_rag_test/
+uploads/
+faiss_index/
